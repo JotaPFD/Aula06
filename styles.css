@@ -1,0 +1,25 @@
+header{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(255, 94, 0),orange);
+    background-size: 100px;
+}
+
+section{
+    color: rgb(26, 26, 141);
+    font-size: 30px;
+    font:bolder;
+}
+
+img{ 
+    border-radius: 10px;
+
+}
+
+footer{
+    background-color: rgb(26, 26, 141);
+    color: white;
+}
+
+html{
+    text-align: center;
+}
